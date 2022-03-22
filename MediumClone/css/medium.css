@@ -1,0 +1,74 @@
+#main {
+    border-bottom: 1px solid rgba(8, 8, 8, 1);
+}
+
+#content {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+#footer a{
+    font-size: 14px;
+}
+
+#fas-fa-save {
+    margin-left: 40%;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+.border-radius {
+    border-radius: 99em;
+}
+
+.orange-color {
+    background-color: #FFC017;
+}
+
+.navbar-medium li a {
+    color: rgba(8, 8, 8, 1);
+    font-size: 14px;
+}
+
+.btn-circular {
+    border-radius: 99em;
+    padding: 7px 16px 9px;
+    background-color: rgba(8, 8, 8, 1);
+}
+
+.logo {
+    font-size:30px;
+}
+
+.font-color {
+    color: rgba(8, 8, 8, 1);
+}
+
+.jumbotron {
+    padding-left: 80px;
+}
+
+.jumbotron h1, .jumbotron p{
+    color: rgba(8, 8, 8, 1);
+}
+
+.jumbotron-image {
+    margin-top: 100px;
+}
+
+.font-small {
+    font-size: 12px;
+}
+
+.font-medium {
+    font-size: 22px;
+}
+
+body {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
